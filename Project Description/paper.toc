@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}What is the Connectome and Why Do We Care?}{1}
+\contentsline {section}{\numberline {2}The Connectomics Competition}{2}
+\contentsline {section}{\numberline {3}Difficulties in Inferring the Connectome}{3}
+\contentsline {section}{\numberline {4}Stetter 2012 \cite {Stetter} }{4}
+\contentsline {section}{\numberline {5}High Level Overview of Our Model}{5}
+\contentsline {section}{\numberline {6}Model Details}{5}
+\contentsline {section}{\numberline {7}Results}{6}
+\contentsline {section}{\numberline {8}Discussion}{7}
+\contentsline {section}{Bibliography}{7}

@@ -1,0 +1,14 @@
+N = number of neurons
+T = number of time steps total
+L = number of lag periods considered
+
+F = NxT un-blurred matrix of fluorescence
+
+C = NxN matrix of connections ( entry i,j indicates whether node j influences node i )
+B = NxNxL sparse matrix of filter coefficients
+Z = NxT matrix of spike states
+
+f | z ~ pseudof( f, F, Z, h ) # here we'll use a gaussian kernel approximation
+  = 1/N(c) sum_{j=1}^{N_t} Normal( f | f_j, h )
+
+z | B, Z, C ~ N

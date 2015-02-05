@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.26pt}
+\select@language {english}
+\beamer@sectionintoc {1}{The Connectomics Competition}{3}{0}{1}
+\beamer@sectionintoc {2}{Current Approach}{13}{0}{2}
+\beamer@sectionintoc {3}{Initial Results}{18}{0}{3}

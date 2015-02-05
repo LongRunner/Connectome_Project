@@ -1,0 +1,4 @@
+Project: Analysis of Connectomics
+Data: Kaggle CONNECTOMICS competition (simulated and real neuron data with positions)
+URL: https://www.kaggle.com/c/connectomics
+Summary: We will apply GLMs and other methods to estimate the networks presented in the Kaggle data set.  The Kaggle data provides simulated data of a variety of 1,000 neuron networks.  There is a neuron location data but no signal data provided with any of the data sets, so all clustering must be done based only on co-activity and co-location.  The simulation is designed to mimic actual, observed calcium fluorescence data.
